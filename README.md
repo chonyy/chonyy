@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,4 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Chonyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=commits,prs,issues,contribs&line_height=100&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Chonyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=commits,prs,issues,contribs&line_height=100&hide_rank=true)](https://github.com/chonyy/github-readme-stats)
+
+## Recent Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
