@@ -11,4 +11,5 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
+                  template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) $title $url"
                   feed_list: "https://medium.com/feed/@chonyy"
