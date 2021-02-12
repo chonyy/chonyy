@@ -9,7 +9,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
+            - uses: chonyy/blog-post-workflow@master
               with:
-                  template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) $title $url"
+                  template: "$emojiKey(📕,📗,📘,📙,📓)"
                   feed_list: "https://medium.com/feed/@chonyy"
