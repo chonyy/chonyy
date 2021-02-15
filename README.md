@@ -1,4 +1,4 @@
-![Chonyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=commits,prs,issues,contribs&line_height=100&hide_rank=true)
+<!-- ![Chonyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=commits,prs,issues,contribs&line_height=100&hide_rank=true) -->
 
 ## ✏️ Latest Posts
 
