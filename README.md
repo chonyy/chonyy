@@ -1,4 +1,4 @@
-![Chonyy's GitHub stats](https://github-readme-stats-ivory-eight.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=issues&line_height=100)
+![Chonyy's GitHub stats](https://github-readme-stats-ivory-eight.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=issues&line_height=15)
 
 ## ✏️ Latest Posts
 
