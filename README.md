@@ -1,4 +1,4 @@
-![Chonyy's GitHub stats](https://github-readme-stats-ivory-eight.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=issues&line_height=15)
+![Chonyy's GitHub stats](https://github-readme-stats-ivory-eight.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=issues&line_height=30&custom_title="Testing Card")
 
 ## ✏️ Latest Posts
 
