@@ -1,11 +1,9 @@
-<img align="center" src="https://github-readme-stats-ivory-eight.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=issues&line_height=30&custom_title=Testing_Card" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chonyy&layout=compact&theme=vue-dark" />
-
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
-
+<a href="https://github.com/chonyy">
+  <img align="center" src="https://github-readme-stats-ivory-eight.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=issues&line_height=30&custom_title=Testing_Card" />
+</a>
+<a href="https://github.com/chonyy">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chonyy&layout=compact&theme=vue-dark" />
+</a>
 
 ## ✏️ Latest Posts
 
