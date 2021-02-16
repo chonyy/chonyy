@@ -1,5 +1,5 @@
 ![Chonyy's GitHub stats](https://github-readme-stats-ivory-eight.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=issues&line_height=30&custom_title=Testing_Card)
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chonyy&repo=anuraghazra.github.io&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chonyy&repo=ai-basketball-analysis&theme=vue-dark" />
 
 ## ✏️ Latest Posts
 
