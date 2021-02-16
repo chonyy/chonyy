@@ -1,5 +1,5 @@
 <a href="https://github.com/chonyy">
-  <img align="center" src="https://github-readme-stats-ivory-eight.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=issues&line_height=30&custom_title=Testing_Card&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.chonyy.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=issues,prs,contribs&custom_title=Chonyy's GitHub Stats&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/chonyy">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chonyy&layout=compact&theme=vue-dark" />
