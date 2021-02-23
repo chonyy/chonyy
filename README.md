@@ -1,6 +1,6 @@
 <p align=center>
     <a href="https://github.com/chonyy">
-      <img align="center" src="https://github-readme-stats.chonyy.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=issues,prs,contribs&custom_title=Chonyy's GitHub Stats&include_all_commits=true&count_private=true&line_height=40" />
+      <img align="center" src="https://github-readme-stats.chonyy.vercel.app/api?username=chonyy&show_icons=true&theme=vue-dark&hide=issues,prs,contribs,commits&custom_title=Chonyy's GitHub Stats&include_all_commits=true&count_private=true&line_height=40" />
     </a>
 </p>
 
