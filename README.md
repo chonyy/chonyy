@@ -13,7 +13,7 @@
     </a>
 -->
 
-## ✏️ Latest Posts
+## ✏️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
  - 📕 [SimRank: Similarity Analysis Explanation and Python Implementation from Scratch](https://towardsdatascience.com/simrank-similarity-analysis-1d8d5a18766a?source=rss-9ea468188884------2)
