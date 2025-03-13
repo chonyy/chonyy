@@ -16,10 +16,10 @@
 ## ✏️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
- - 📕 [SimRank: Similarity Analysis Explanation and Python Implementation from Scratch](https://medium.com/towards-data-science/simrank-similarity-analysis-1d8d5a18766a?source=rss-9ea468188884------2)
- - 📗 [PageRank: Link Analysis Explanation and Python Implementation from Scratch](https://medium.com/towards-data-science/pagerank-3c568a7d2332?source=rss-9ea468188884------2)
- - 📘 [HITS Algorithm: Link Analysis Explanation and Python Implementation from Scratch](https://medium.com/towards-data-science/hits-algorithm-link-analysis-explanation-and-python-implementation-61f0762fd7cf?source=rss-9ea468188884------2)
- - 📙 [FP Growth: Frequent Pattern Generation in Data Mining with Python Implementation](https://medium.com/towards-data-science/fp-growth-frequent-pattern-generation-in-data-mining-with-python-implementation-244e561ab1c3?source=rss-9ea468188884------2)<!-- BLOG-POST-LIST:END -->
+ - 📕 [SimRank: Similarity Analysis Explanation and Python Implementation from Scratch](https://medium.com/data-science/simrank-similarity-analysis-1d8d5a18766a?source=rss-9ea468188884------2)
+ - 📗 [PageRank: Link Analysis Explanation and Python Implementation from Scratch](https://medium.com/data-science/pagerank-3c568a7d2332?source=rss-9ea468188884------2)
+ - 📘 [HITS Algorithm: Link Analysis Explanation and Python Implementation from Scratch](https://medium.com/data-science/hits-algorithm-link-analysis-explanation-and-python-implementation-61f0762fd7cf?source=rss-9ea468188884------2)
+ - 📙 [FP Growth: Frequent Pattern Generation in Data Mining with Python Implementation](https://medium.com/data-science/fp-growth-frequent-pattern-generation-in-data-mining-with-python-implementation-244e561ab1c3?source=rss-9ea468188884------2)<!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Working on
 
